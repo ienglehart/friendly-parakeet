@@ -43,6 +43,7 @@ function generatePassword(params) {
     passwordLength--;
   }
   password.toString;
+  return password;
   console.log(password);
 }
 
